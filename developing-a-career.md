@@ -22,7 +22,7 @@ Compensation
 
 We pay at the top 5% of Twin Cities salary levels for our industry, regardless of where an employee lives. We don't pay
 bonuses or stock as we believe that a big salary is the most efficient form of compensation. Everyone in the same role
-at the same level is paid the same salary. That salary is visible to all employees.
+at the same level is paid the same salary. All salaries are visible to all employees.
 
 
 Reviews
