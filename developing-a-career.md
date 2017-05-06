@@ -24,6 +24,9 @@ We pay at the top 5% of Twin Cities salary levels for our industry, regardless o
 bonuses or stock as we believe that a big salary is the most efficient form of compensation. Everyone in the same role
 at the same level is paid the same salary. All salaries are visible to all employees.
 
+We use benchmarking data to set the salaries for a role and level. We will hold salaries until the market rebounds,
+if the benchmarking data shows market rates decreasing. An employee's salary may decrease if they choose to change
+roles.
 
 Reviews
 -------
@@ -32,3 +35,11 @@ We perform bi-yearly reviews in April and October. Everyone who has been with th
 review. During this review period, someone may be promoted or may elect 
 to change roles. In this case, if someone is promoted or elect to change their role, then their salary will be
 adjusted in the following month (May and November, respectively).
+
+Reviews are performed by a set of people (that change every year) who are tasked with reviewing all employees. This
+review group runs a peer review process for each employee:
+* each person is asked who they worked with most this past year - usually, this is members of the team they work on.
+* performance data and feedback is collected across this group.
+* the data is then collated, anonymized, and then calibrated across all roles and levels for all employees.
+* the performance data and anonymized peer feedback is then shared with the individual.
+* if eligible, this may include a promotion agreed upon by the review group; calibrated across the organization.
