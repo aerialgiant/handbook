@@ -4,7 +4,7 @@ Developing Your Career
 Titles
 ------
 
-Titles are defined within a particular role, e.g. software developer. and progress from Associate to Fellow
+Titles are defined within a particular role, e.g. software developer, and progress from Associate to Fellow
 across all roles. There are five levels for each role:
 
  * Associate
