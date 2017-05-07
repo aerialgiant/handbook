@@ -7,7 +7,7 @@ to do so, we start by recognizing that not everyone will stay with us their enti
 
 Worthy Efforts
 --------------
-When employees start, they will meet with the head of the team they're joining to establish a four-year engagement. 
+When employees start, they will meet with the CEO and their Team Lead to establish a four-year engagement. 
 This engagement outlines a significant project or effort that mutually benefits the employee and the team. 
 This could be a new architectural approach, a new product, or even starting a new business. 
 The important part is that both parties understand and agree that they’ve entered into a voluntary 
