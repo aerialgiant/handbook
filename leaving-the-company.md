@@ -19,7 +19,7 @@ who are no longer engaged with the organization, or who aren't performing to exp
 Leaving
 -------
 Most employees don't tell their manager that they are looking for their next job for fear of retribution: 
-that they'll be demoted, that they won't get plum assignments, or that they will be considered outcast by the group.
+that they'll be demoted, that they won't get further assignments, or that they will be considered outcast.
 
 We want to make it as easy as possible for people to leave - we never want someone to feel trapped in their job
 and likewise, we would prefer to be a partner in these situations in order to help everyone plan for the possible
@@ -27,7 +27,7 @@ departure. For all departing employees - voluntary or otherwise, we offer two we
 they've worked for the company, plus placement services to help them find their next job.
 
 Ideally, the departing employee will be an ambassador for Aerial Giant and become an extension of our network.
-To help retain this connection, we've formed an Aerial Giant Alumni group and invite the alumnus back annually 
+To help retain this connection, we've formed an Aerial Giant Alumni group and invite the alumni back annually 
 to reconnect.
 
 
