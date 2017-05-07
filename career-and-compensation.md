@@ -24,9 +24,9 @@ We pay at the top 5% of Twin Cities salary levels for our industry, regardless o
 bonuses or stock as we believe that a big salary is the most efficient form of compensation. Everyone in the same role
 at the same level is paid the same salary. All salaries are visible to all employees.
 
-We use benchmarking data to set the salaries for a role and level. We will hold salaries until the market rebounds,
-if the benchmarking data shows market rates decreasing. An employee's salary may decrease if they choose to change
-roles.
+We use benchmarking data to set the salaries for a role and level. If the benchmarking data shows market rates 
+decreasing, we will hold salaries until the market rebounds. Note: an employee's salary may decrease if they 
+choose to change roles.
 
 
 Reviews

@@ -7,7 +7,7 @@ to do so, we start by recognizing that not everyone will stay with us their enti
 
 Worthy Efforts
 --------------
-When employees start, they ill meet with the head of the team they're joining to establish a four-year engagement. 
+When employees start, they will meet with the head of the team they're joining to establish a four-year engagement. 
 This engagement outlines a significant project or effort that mutually benefits the employee and the team. 
 This could be a new architectural approach, a new product, or even starting a new business. 
 The important part is that both parties understand and agree that they’ve entered into a voluntary 
@@ -21,8 +21,8 @@ Leaving
 Most employees don't tell their manager that they are looking for their next job for fear of retribution: 
 that they'll be demoted, that they won't get further assignments, or that they will be considered outcast.
 
-We want to make it as easy as possible for people to leave - we never want someone to feel trapped in their job
-and likewise, we would prefer to be a partner in these situations in order to help everyone plan for the possible
+We want to make it as easy as possible for people to leave - we never want someone to feel trapped in their job.
+And more so, we would prefer to be a partner in these situations in order to help everyone plan for the possible
 departure. For all departing employees - voluntary or otherwise, we offer two weeks of salary for every year 
 they've worked for the company, plus placement services to help them find their next job.
 
