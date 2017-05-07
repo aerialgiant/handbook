@@ -13,7 +13,8 @@ the organization.
 Sections
 --------
 
-* [Developing a Career](https://github.com/aerialgiant/handbook/blob/master/developing-a-career.md)
+* [Career and Compensation](https://github.com/aerialgiant/handbook/blob/master/career-and-compensation.md)
+* [Leaving the Company](https://github.com/aerialgiant/handbook/blob/master/leaving-the-company.md)
 
 
 Inspiration and References
