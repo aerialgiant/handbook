@@ -31,9 +31,9 @@ Chief People Officer
 As a balance, and for legal considerations, all employees report to the CPO with the exception of the CEO and CFO.
 
 With the intent to limit the power of the CPO, Aerial Giant institutes two practices:
-* in the rare case that someone must be fire or layed off from the organization, 
+* in the rare case that someone must be removed from the organization, 
 both the CEO and CPO must agree on the action(s).
-* the CPO agrees to a four-year engagement (the same as all employees), and every two years, must have agreement
+* the CPO agrees to a four-year engagement, and every two years, must have agreement
 of 60% of employees to continue in their role.
 
 At any point in time, a named, visible to all employees successor is identified in case of sudden departure of the CPO.
