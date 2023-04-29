@@ -11,5 +11,5 @@ pay increase.
 * May and November Reviews - we perform bi-yearly reviews in May and November.
 
 And here are a few things from this handbook that we choose not to include:
-* Working Remotely - we prefer the comraderie and serendpity that comes from working together in the same office.
+* Working Remotely - we prefer the comaraderie and serendipity that comes from working together in the same office.
 
