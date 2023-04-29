@@ -7,7 +7,7 @@ Here are a few of the elements of this handbook that we drew inspiration from in
 * We're a team, not a family - in egalitarian structures, it's easy to misconstrue these two.
 * The Keeper Test - Which of my people, if they told me they were leaving for a similar job at a peer company,  
 would I fight hard to keep at Netflix? This litmus test should be shared by all peers, of their peers.
-* Hours - we don't measure people by how many ours they work or how much they are in the office.
+* Hours - we don't measure people by how many hours they work or how much they are in the office.
 * Freedom - scale up the business by _increasing_ employee freedom.
 * Context vs Control - we believe teams should provide context to work, strategy, and vision, but not control.
 * Market Comp Review - we will benchmark compensation every six months for all roles, not just at hire.
